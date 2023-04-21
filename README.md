@@ -1,6 +1,6 @@
 # Bernardo Andrade
 
-I'm a Brazilian Developer from Belo Horizonte, Brazil! 
+💻 Sou um desenvolvedor brasileiro, de Belo Horizonte! | I'm a Brazilian Developer from Belo Horizonte, Brazil! 
 
 ```c
 ✋🏽 Developer\Digitalcraftsman
@@ -10,8 +10,10 @@ I'm a Brazilian Developer from Belo Horizonte, Brazil!
 
 🇺🇸 I'm a independent full-stack developer who is building my version of the digital world, one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code. I apply the same attention to detail to my artistic projects.
 
+#
+
 ### 🧰 Linguagens e ferramentas / Languages and Tools
-<br/ >
+
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
@@ -26,22 +28,19 @@ I'm a Brazilian Developer from Belo Horizonte, Brazil!
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<br />
-<br/ >
-<br/ >
-<br/ >
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
 <br/ >
 <br/ >
 <br/ >
 
+#
+
+## 📒 Cadernos das Linguagens
 
 
-## 📒 Cadernos das linguagens
-
-
-| Python                        | JavaScript                                    | C/C++                                                                |
+|Python                        | JavaScript                                    | C/C++                                                                |
 |:----------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
 | Conheço o básico da linguagem | Tenho conhecimento intermediário da linguagem | Tenho conhecimento básico de C e algum conhecimento da linguagem C++ |
-| Caderno de Python 📁          | Caderno de Javascript 📁                      | Caderno de C 📁                                                      |
+| Caderno de Python 📁          | Caderno de Javascript 📁                      | Caderno de C / C++ 📁                                                      |
 
 
