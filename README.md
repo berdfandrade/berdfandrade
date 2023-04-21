@@ -11,6 +11,7 @@ I'm a Brazilian Developer from Belo Horizonte, Brazil!
 🇺🇸 I'm a independent full-stack developer who is building my version of the digital world, one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code. I apply the same attention to detail to my artistic projects.
 
 ### 🧰 Linguagens e ferramentas / Languages and Tools
+<br/ >
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
@@ -24,11 +25,19 @@ I'm a Brazilian Developer from Belo Horizonte, Brazil!
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <br />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<br/ >
+<br/ >
+<br/ >
+<br/ >
+<br/ >
+<br/ >
 
-# 
+
+
+## 📒 Cadernos das linguagens
+
 
 | Python                        | JavaScript                                    | C/C++                                                                |
 |:----------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
