@@ -33,14 +33,5 @@
 <br/ >
 <br/ >
 
-#
-
-## 📒 Cadernos das Linguagens
-
-
-|Python                        | JavaScript                                    | C/C++                                                                |
-|:----------------------------- | --------------------------------------------- | -------------------------------------------------------------------- |
-| Conheço o básico da linguagem | Tenho conhecimento intermediário da linguagem | Tenho conhecimento básico de C e algum conhecimento da linguagem C++ |
-| Caderno de Python 📁          | Caderno de Javascript 📁                      | Caderno de C / C++ 📁                                                      |
 
 
