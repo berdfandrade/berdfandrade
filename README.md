@@ -1,18 +1,9 @@
 # Bernardo Andrade
 
-💻 Sou um desenvolvedor brasileiro, de Belo Horizonte! | I'm a Brazilian Developer from Belo Horizonte, Brazil! 
+I'm a independent full-stack developer who is building my version of the digital world, one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code. I apply the same attention to detail to my artistic projects.
 
-```c
-✋🏽 Developer\Digitalcraftsman
-```
 
-🇧🇷 Sou um desenvolvedor independente full-stack que está construindo minha versão do mundo digital, um passo de cada vez. Todos os projetos de programação são criados do zero, desde o planejamento e design até a solução de problemas da vida real com código. Uso o mesmo apelo detalhista para meus projetos artísticos. 
-
-🇺🇸 I'm a independent full-stack developer who is building my version of the digital world, one step at a time. All coding projects are built from scratch, from planning and design to solving real-life problems with code. I apply the same attention to detail to my artistic projects.
-
-#
-
-### 🧰 Linguagens e ferramentas / Languages and Tools
+### 🧰 Programming languages and Tools
 
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
